@@ -1,6 +1,6 @@
 # About Me
 
-I'm xoorath online (Jared in the fleshiverse) and I'm a game developer from Ottawa, Canada living now in Woodinville, WA, USA.
+I'm xo, a game developer from Ottawa, Canada living now in Woodinville, WA, USA.
 
 I like to work on game engines, retro games, and occasionally embeded projects and web games. I raise chickens and build things with wood and metal.
 
